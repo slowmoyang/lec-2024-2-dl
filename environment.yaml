@@ -1,0 +1,14 @@
+name: lec-24-2-dl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pynvml
+  - pytorch-gpu
+  - matplotlib
+  - seaborn
+  - pandas
+  - ipykernel
+  - pip
+  - pip:
+    - ucimlrepo
