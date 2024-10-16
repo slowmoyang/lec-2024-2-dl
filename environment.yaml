@@ -5,6 +5,7 @@ dependencies:
   - python=3.11
   - pynvml
   - pytorch-gpu
+  - torchvision
   - matplotlib
   - seaborn
   - pandas
