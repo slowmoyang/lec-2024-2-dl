@@ -6,6 +6,9 @@ dependencies:
   - pynvml
   - pytorch-gpu
   - torchvision
+  - torchview
+  - scikit-learn
+  - kagglehub
   - matplotlib
   - seaborn
   - pandas
